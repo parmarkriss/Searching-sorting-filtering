@@ -1,0 +1,30 @@
+{
+  "crud": [
+    {
+      "name": "cc",
+      "email": "ccc",
+      "password": "123",
+      "gender": "Male",
+      "course": [
+        "Html",
+        "Css",
+        "Javascript"
+      ],
+      "date": "2024-06-06",
+      "status": "Active",
+      "id": "4b08"
+    },
+    {
+      "id": "6df2",
+      "name": "z",
+      "email": "z@gmail.com",
+      "password": "852",
+      "gender": "Female",
+      "course": [
+        "Ui/Ux Design"
+      ],
+      "date": "2024-06-16",
+      "status": "Deactive"
+    }
+  ]
+}
